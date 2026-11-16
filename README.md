@@ -36,5 +36,4 @@ This repository contains my beginner-level SQL practice using PostgreSQL. I crea
 
 
 
----
-**Author:** SQL Beginner Learner
+
